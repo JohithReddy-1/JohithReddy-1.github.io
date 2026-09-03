@@ -1,0 +1,1 @@
+Mandyam Johith Reddy — recruiter-grade multi-page portfolio. Entry: index.html. Flow: Home → View My Details → Portfolio Index → separate section pages. Projects also have individual case-study pages.
